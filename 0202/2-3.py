@@ -1,0 +1,15 @@
+#2-3
+import turtle
+fourfour = turtle.Turtle()
+fourfour.color('red')
+fourfour.forward(250)
+fourfour.left(90)
+fourfour.color('yellow')
+fourfour.forward(250)
+fourfour.left(90)
+fourfour.color('blue')
+fourfour.forward(250)
+fourfour.left(90)
+fourfour.color('purple')
+fourfour.forward(250)
+fourfour.left(90)
